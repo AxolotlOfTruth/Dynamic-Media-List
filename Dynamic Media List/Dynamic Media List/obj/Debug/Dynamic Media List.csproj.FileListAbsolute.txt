@@ -1,0 +1,10 @@
+C:\Users\Gabriel\Documents\CNED\BLOC_1\MediaList\Dynamic-Media-List\Dynamic Media List\Dynamic Media List\obj\Debug\Dynamic Media List.csprojAssemblyReference.cache
+C:\Users\Gabriel\Documents\CNED\BLOC_1\MediaList\Dynamic-Media-List\Dynamic Media List\Dynamic Media List\obj\Debug\Dynamic_Media_List.formMediaList.resources
+C:\Users\Gabriel\Documents\CNED\BLOC_1\MediaList\Dynamic-Media-List\Dynamic Media List\Dynamic Media List\obj\Debug\Dynamic_Media_List.Properties.Resources.resources
+C:\Users\Gabriel\Documents\CNED\BLOC_1\MediaList\Dynamic-Media-List\Dynamic Media List\Dynamic Media List\obj\Debug\Dynamic Media List.csproj.GenerateResource.cache
+C:\Users\Gabriel\Documents\CNED\BLOC_1\MediaList\Dynamic-Media-List\Dynamic Media List\Dynamic Media List\obj\Debug\Dynamic Media List.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\CNED\BLOC_1\MediaList\Dynamic-Media-List\Dynamic Media List\Dynamic Media List\bin\Debug\Dynamic Media List.exe.config
+C:\Users\Gabriel\Documents\CNED\BLOC_1\MediaList\Dynamic-Media-List\Dynamic Media List\Dynamic Media List\bin\Debug\Dynamic Media List.exe
+C:\Users\Gabriel\Documents\CNED\BLOC_1\MediaList\Dynamic-Media-List\Dynamic Media List\Dynamic Media List\bin\Debug\Dynamic Media List.pdb
+C:\Users\Gabriel\Documents\CNED\BLOC_1\MediaList\Dynamic-Media-List\Dynamic Media List\Dynamic Media List\obj\Debug\Dynamic Media List.exe
+C:\Users\Gabriel\Documents\CNED\BLOC_1\MediaList\Dynamic-Media-List\Dynamic Media List\Dynamic Media List\obj\Debug\Dynamic Media List.pdb
